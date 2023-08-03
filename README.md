@@ -31,9 +31,9 @@
     <h3>Подробное описание:</h3>
     <h4>Главная страница сайта:</h4>
     <div align="center" id="Images">
-        <img src="https://github.com/AntsiferovPeter/CRW/blob/main/Images/Main.gif" width=800 alt=""/>
-        <img src="https://github.com/AntsiferovPeter/CRW/blob/main/Images/Header1.gif" width=800 alt=""/>
-        <img src="https://github.com/AntsiferovPeter/CRW/blob/main/Images/Header2.gif" width=800 alt=""/>
+        <img src="https://github.com/AntsiferovPeter/CRW_RU/blob/main/Images/Main.gif" width=800 alt=""/>
+        <img src="https://github.com/AntsiferovPeter/CRW_RU/blob/main/Images/Header1.gif" width=800 alt=""/>
+        <img src="https://github.com/AntsiferovPeter/CRW_RU/blob/main/Images/Header2.gif" width=800 alt=""/>
     </div>
     <p>Главная страница сайта имеет следующую структуру:</p>
     <ul>
@@ -49,7 +49,7 @@
             </ul>
     </ul>
     <div align="center" id="Images">
-        <img src="https://github.com/AntsiferovPeter/CRW/blob/main/Images/Header.gif" width=800 alt=""/>
+        <img src="https://github.com/AntsiferovPeter/CRW_RU/blob/main/Images/Header.gif" width=800 alt=""/>
     </div>
     <ul>
         <li><p>Блок контента содержит:</p></li>
@@ -59,7 +59,7 @@
             </ul>
     </ul>
     <div align="center" id="Images">
-        <img src="https://github.com/AntsiferovPeter/CRW/blob/main/Images/Content.gif" width=800 alt=""/>
+        <img src="https://github.com/AntsiferovPeter/CRW_RU/blob/main/Images/Content.gif" width=800 alt=""/>
     </div>
     <ul>
         <li><p>Footer (Подвал) страницы содержит:</p></li>
@@ -71,12 +71,12 @@
             </ul>
     </ul>
     <div align="center" id="Images">
-        <img src="https://github.com/AntsiferovPeter/CRW/blob/main/Images/Footer.gif" width=800 alt=""/>
+        <img src="https://github.com/AntsiferovPeter/CRW_RU/blob/main/Images/Footer.gif" width=800 alt=""/>
         <p>*Footer неизменен на всех страницах сайта</p>
     </div>
     <h4>Страница автомобиля:</h4>
     <div align="center" id="Images">
-        <img src="https://github.com/AntsiferovPeter/CRW/blob/main/Images/Car.gif" width=800 alt=""/>
+        <img src="https://github.com/AntsiferovPeter/CRW_RU/blob/main/Images/Car.gif" width=800 alt=""/>
     </div>
     <br>
     <br>
@@ -89,18 +89,18 @@
             <li><p>Кнопка "Забронировать"</p></li>
         </ul>
     <div align="center" id="Images">
-        <img src="https://github.com/AntsiferovPeter/CRW/blob/main/Images/CarInfo.gif" width=800 alt=""/>
+        <img src="https://github.com/AntsiferovPeter/CRW_RU/blob/main/Images/CarInfo.gif" width=800 alt=""/>
     </div>
     <h4>Страница о компании:</h4>
     <div align="center" id="Images">
-        <img src="https://github.com/AntsiferovPeter/CRW/blob/main/Images/About.gif" width=800 alt=""/>
+        <img src="https://github.com/AntsiferovPeter/CRW_RU/blob/main/Images/About.gif" width=800 alt=""/>
     </div>
     <br>
     <br>
     <p>Блок контента страницы о компании содержит описания преимуществ компании.</p>
     <h4>Страница обратной связи:</h4>
     <div align="center" id="Images">
-        <img src="https://github.com/AntsiferovPeter/CRW/blob/main/Images/Feedback.jpg" width=800 alt=""/>
+        <img src="https://github.com/AntsiferovPeter/CRW_RU/blob/main/Images/Feedback.jpg" width=800 alt=""/>
     </div>
     <br>
     <br>
@@ -111,18 +111,18 @@
         <li><p>Защиту от спама reCAPTCHA;</p></li>
     </ul>
     <div align="center" id="Images">
-        <img src="https://github.com/AntsiferovPeter/CRW/blob/main/Images/Recaptcha.gif" width=800 alt=""/>
+        <img src="https://github.com/AntsiferovPeter/CRW_RU/blob/main/Images/Recaptcha.gif" width=800 alt=""/>
     </div>
     <h4>Страница регистрации:</h4>
     <div align="center" id="Images">
-        <img src="https://github.com/AntsiferovPeter/CRW/blob/main/Images/Registration.png" width=800 alt=""/>
+        <img src="https://github.com/AntsiferovPeter/CRW_RU/blob/main/Images/Registration.png" width=800 alt=""/>
     </div>
     <br>
     <br>
     <p>Блок контента страницы регистрации содержит форму для заполнения.</p>
     <h4>Страница аутентификации:</h4>
     <div align="center" id="Images">
-        <img src="https://github.com/AntsiferovPeter/CRW/blob/main/Images/Authentication.png" width=800 alt=""/>
+        <img src="https://github.com/AntsiferovPeter/CRW_RU/blob/main/Images/Authentication.png" width=800 alt=""/>
     </div>
     <br>
     <br>
