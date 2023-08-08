@@ -32,8 +32,6 @@
     <h4>Главная страница сайта:</h4>
     <div align="center" id="Images">
         <img src="https://github.com/AntsiferovPeter/CRW_RU/blob/main/Images/Main.gif" width=800 alt=""/>
-        <img src="https://github.com/AntsiferovPeter/CRW_RU/blob/main/Images/Header1.gif" width=800 alt=""/>
-        <img src="https://github.com/AntsiferovPeter/CRW_RU/blob/main/Images/Header2.gif" width=800 alt=""/>
     </div>
     <p>Главная страница сайта имеет следующую структуру:</p>
     <ul>
